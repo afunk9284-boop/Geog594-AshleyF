@@ -6,4 +6,4 @@
 ##My Definition of Big Data
 Big data refers to very large and diverse datasets that allow us to take a comprehensive approach to analyzing human behavior.
 ##Photo
-![My Photo](DR102093_VSCO.jpg)
+![My Photo](DR102093_VSCO.jpeg)
