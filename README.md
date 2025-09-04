@@ -7,4 +7,4 @@
 Big data refres to very large and diverse datasets that allow us to take a comprehensive approach to human analysis.
 ## Photo
 ![My Photo](DR102093_VSCO.jpeg)
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
